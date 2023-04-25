@@ -1,6 +1,5 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import { Carousel3d, Slide } from 'vue-carousel-3d';
 </script>
 
 <template>
